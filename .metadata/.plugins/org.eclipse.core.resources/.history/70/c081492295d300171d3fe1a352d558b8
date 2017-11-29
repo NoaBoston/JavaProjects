@@ -1,0 +1,26 @@
+import javax.swing.JOptionPane;
+import java.util.*;
+
+public class Alphabetize 
+{
+
+	public static void main(String[] args) 
+	{
+		ArrayList<String> alphaChoices = new ArrayList();
+		ArrayList<Integer> alphaSort = new ArrayList();
+		
+		String optionsString;
+		int optionsInt;
+		
+		optionsString = JOptionPane.showInputDialog("How many numbers would you like to alphabetize?");
+		optionsInt = Integer.parseInt(optionsString);
+		
+		for (int i = 0; i < optionsInt; i++)
+		{
+			alphaChoices.add(JOptionPane.showInputDialog("Enter your words"));
+		}
+		System.out.print(alphaChoices);
+
+	}
+
+}
