@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.awt.Robot"/>
+<fullyQualifiedTypeName name="java.awt.event.InputEvent"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Timer"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.ADXRS450_Gyro"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Encoder"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.AnalogPotentiometer"/>
+<fullyQualifiedTypeName name="com.ctre.phoenix.motorcontrol.can.WPI_TalonSRX"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team5822.robot.subsystems.Sensors"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.VictorSP"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team5822.robot.subsystems.Drivetrain"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team5822.robot.RobotMap"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team5822.robot.Robot"/>
 </qualifiedTypeNameHistroy>

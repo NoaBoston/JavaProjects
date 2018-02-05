@@ -5,7 +5,7 @@ public class Alphabetize
 {
 	public static void main(String[] args) 
 	{		
-		int optionsInt = Integer.parseInt(JOptionPane.showInputDialog("How many numbers would you like to alphabetize?"));
+		int optionsInt = Integer.parseInt(JOptionPane.showInputDialog("How many words would you like to alphabetize?"));
 		
 		int[] alphaInts = new int[optionsInt];
 		
